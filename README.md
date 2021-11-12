@@ -1,7 +1,7 @@
 # Long Input Summarization bibliography
 
 A curated list of resources for Long Input Summarization.  
-Under Yale Advanced NLP project
+Under Yale Advanced NLP Assignment
 
 ## Contributing
 Please feel free to email Ziming Mao (ziming.mao@yale.edu).
